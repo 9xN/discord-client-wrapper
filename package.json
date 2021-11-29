@@ -1,0 +1,22 @@
+{
+  "name": "discord-client-wrapper",
+  "version": "1.0.0",
+  "description": "A simple api tool to send requests easily via a node.js program to control a client/user account",
+  "main": "wrapper.js",
+  "scripts": {
+    "test": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9xN/discord-client-wrapper.git"
+  },
+  "author": "social#2435",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/9xN/discord-client-wrapper/issues"
+  },
+  "homepage": "https://github.com/9xN/discord-client-wrapper#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
